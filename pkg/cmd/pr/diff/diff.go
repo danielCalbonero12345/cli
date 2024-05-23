@@ -1,4 +1,4 @@
-package diff
+okpackage diff
 
 import (
 	"bufio"
